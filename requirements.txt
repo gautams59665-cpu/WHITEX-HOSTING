@@ -1,0 +1,8 @@
+Flask
+requests
+pyTelegramBotAPI
+psutil
+python-dotenv
+beautifulsoup4
+Pillow
+aiogram
